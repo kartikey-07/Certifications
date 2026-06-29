@@ -28,7 +28,7 @@ A curated collection of my professional certifications, training completions, an
 | 9 | **Java Programming Fundamentals** | Infosys Springboard | July 2024 | [Java_Fundamentals_Infosys_Springboard.pdf](./Java_Fundamentals_Infosys_Springboard.pdf) |
 | 10 | **HTML5 — The Language** | Infosys Springboard | Jan 2024 | [HTML5_Infosys_Springboard.pdf](./HTML5_Infosys_Springboard.pdf) |
 | 11 | **C Programming** | IIT Bombay — Spoken Tutorial | Jan 2024 | [C_Programming_IIT_Bombay.pdf](./C_Programming_IIT_Bombay.pdf) |
-| 12 | **Python Certification** | — | — | [Python_Certification.png](./Python_Certification.png) |
+| 12 | **Python** | GUVI — HCL (Google for Education Partner) | July 2025 | [Python_Certification.png](./Python_Certification.png) |
 
 ---
 
