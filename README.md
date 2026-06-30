@@ -23,7 +23,7 @@ A curated collection of my professional certifications, training completions, an
 | 4 | **Virtual Internship** | IBM | Aug 2025 | [Virtual_Internship_IBM.pdf](./Virtual_Internship_IBM.pdf) |
 | 5 | **Data Science & ML Comprehensive** | Udemy | May 2025 | *Resume* |
 | 6 | **Networking Basics** | Cisco Networking Academy | March 2025 | [Networking_Basics_Cisco.pdf](./Networking_Basics_Cisco.pdf) |
-| 7 | **Foundations of Project Management** | Google — Coursera | March 2025 | *Resume* |
+| 7 | **Foundations of Project Management** | Google — Coursera | March 2025 | https://coursera.org/share/d62cc0f3d81af36632ca8e00633d5c1f |
 | 8 | **Cybersecurity Essentials** | Cisco Networking Academy | Jan 2024 | [Cybersecurity_Essentials_Cisco.pdf](./Cybersecurity_Essentials_Cisco.pdf) |
 | 9 | **Java Programming Fundamentals** | Infosys Springboard | July 2024 | [Java_Fundamentals_Infosys_Springboard.pdf](./Java_Fundamentals_Infosys_Springboard.pdf) |
 | 10 | **HTML5 — The Language** | Infosys Springboard | Jan 2024 | [HTML5_Infosys_Springboard.pdf](./HTML5_Infosys_Springboard.pdf) |
