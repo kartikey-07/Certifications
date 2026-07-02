@@ -1,14 +1,5 @@
 # 📜 Certifications & Certificates
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Total_Certifications-11-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Providers-8-4c1d95?style=for-the-badge" />
-
-</div>
-
-<br/>
-
 A curated collection of my professional certifications, training completions, and course credentials.
 
 ---
