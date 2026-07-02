@@ -10,7 +10,7 @@ A curated collection of my professional certifications, training completions, an
 |:-:|:-----------|:---------|:-----|:-----|
 | 1 | **AI & ML Program** | ICTRD | June 2026 | [AI_ML_Program_ICTRD.pdf](./AI_ML_Program_ICTRD.pdf) |
 | 2 | **AI** | IBM | Jul–Aug 2025 | [Project_Based_ML_IBM.pdf](./Project_Based_ML_IBM.pdf) |
-| 3 | **GenAI Virtual Internship (6 Weeks)** | IBM (IBMMooc) | Aug 2025 | [GenAI_Virtual_Internship_IBM.pdf](./GenAI_Virtual_Internship_IBM.pdf) |
+| 3 | **GenAI Virtual Internship (6 Weeks)** | IBM  | Aug 2025 | [GenAI_Virtual_Internship_IBM.pdf](./GenAI_Virtual_Internship_IBM.pdf) |
 | 4 | **Data Science & ML Comprehensive** | Udemy | May 2025 | *-* |
 | 5 | **Networking Basics** | Cisco Networking Academy | March 2025 | [Networking_Basics_Cisco.pdf](./Networking_Basics_Cisco.pdf) |
 | 6 | **Foundations of Project Management** | Google — Coursera | March 2025 | https://coursera.org/share/d62cc0f3d81af36632ca8e00633d5c1f |
