@@ -20,15 +20,14 @@ A curated collection of my professional certifications, training completions, an
 | 1 | **AI & Machine Learning Program** | ICTRD | June 2026 | [AI_ML_Program_ICTRD.pdf](./AI_ML_Program_ICTRD.pdf) |
 | 2 | **Project-Based ML Learning** | IBM | Jul–Aug 2025 | [Project_Based_ML_IBM.pdf](./Project_Based_ML_IBM.pdf) |
 | 3 | **GenAI Virtual Internship (6 Weeks)** | IBM (IBMMooc) | Aug 2025 | [GenAI_Virtual_Internship_IBM.pdf](./GenAI_Virtual_Internship_IBM.pdf) |
-| 4 | **Virtual Internship** | IBM | Aug 2025 | [Virtual_Internship_IBM.pdf](./Virtual_Internship_IBM.pdf) |
-| 5 | **Data Science & ML Comprehensive** | Udemy | May 2025 | *Resume* |
-| 6 | **Networking Basics** | Cisco Networking Academy | March 2025 | [Networking_Basics_Cisco.pdf](./Networking_Basics_Cisco.pdf) |
-| 7 | **Foundations of Project Management** | Google — Coursera | March 2025 | https://coursera.org/share/d62cc0f3d81af36632ca8e00633d5c1f |
-| 8 | **Cybersecurity Essentials** | Cisco Networking Academy | Jan 2024 | [Cybersecurity_Essentials_Cisco.pdf](./Cybersecurity_Essentials_Cisco.pdf) |
-| 9 | **Java Programming Fundamentals** | Infosys Springboard | July 2024 | [Java_Fundamentals_Infosys_Springboard.pdf](./Java_Fundamentals_Infosys_Springboard.pdf) |
-| 10 | **HTML5 — The Language** | Infosys Springboard | Jan 2024 | [HTML5_Infosys_Springboard.pdf](./HTML5_Infosys_Springboard.pdf) |
-| 11 | **C Programming** | IIT Bombay — Spoken Tutorial | Jan 2024 | [C_Programming_IIT_Bombay.pdf](./C_Programming_IIT_Bombay.pdf) |
-| 12 | **Python** | GUVI — HCL (Google for Education Partner) | July 2025 | [Python_Certification.png](./Python_Certification.png) |
+| 4 | **Data Science & ML Comprehensive** | Udemy | May 2025 | *-* |
+| 5 | **Networking Basics** | Cisco Networking Academy | March 2025 | [Networking_Basics_Cisco.pdf](./Networking_Basics_Cisco.pdf) |
+| 6 | **Foundations of Project Management** | Google — Coursera | March 2025 | https://coursera.org/share/d62cc0f3d81af36632ca8e00633d5c1f |
+| 7 | **Cybersecurity Essentials** | Cisco Networking Academy | Jan 2024 | [Cybersecurity_Essentials_Cisco.pdf](./Cybersecurity_Essentials_Cisco.pdf) |
+| 8 | **Java Programming Fundamentals** | Infosys Springboard | July 2024 | [Java_Fundamentals_Infosys_Springboard.pdf](./Java_Fundamentals_Infosys_Springboard.pdf) |
+| 9 | **HTML5 — The Language** | Infosys Springboard | Jan 2024 | [HTML5_Infosys_Springboard.pdf](./HTML5_Infosys_Springboard.pdf) |
+| 10 | **C Programming** | IIT Bombay — Spoken Tutorial | Jan 2024 | [C_Programming_IIT_Bombay.pdf](./C_Programming_IIT_Bombay.pdf) |
+| 11 | **Python** | GUVI — HCL (Google for Education Partner) | July 2025 | [Python_Certification.png](./Python_Certification.png) |
 
 ---
 
@@ -38,9 +37,7 @@ A curated collection of my professional certifications, training completions, an
 - AI & Machine Learning Program (June 2026)
 
 ### IBM
-- Project-Based ML Learning (Jul–Aug 2025)
 - GenAI Virtual Internship — 6 Weeks (Aug 2025)
-- Virtual Internship (Aug 2025)
 
 ### Udemy
 - Data Science & Machine Learning Comprehensive (May 2025)
